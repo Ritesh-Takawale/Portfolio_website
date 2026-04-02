@@ -59,7 +59,7 @@ export const skillGroups = {
 }
 
 export const certification = {
-  title: 'React Advanced Developer',
-  provider: 'Udemy',
-  date: 'June 2023',
+  title: 'Fundamentals of Deep Learning',
+  provider: 'Nvidia',
+  date: 'June 2024',
 }
